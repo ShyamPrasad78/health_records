@@ -1,4 +1,4 @@
-# 🏥 Patient Health Record System
+# 🏥 Health Records
 
 A full-stack web application for managing patient health records using **Django (Backend)** and **React (Frontend)**.
 
